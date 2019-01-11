@@ -1,0 +1,33 @@
+public class ArrayExercicio1 {
+    public static void main(String[] args) {
+
+        String [] frutas = new String[4];
+        frutas [0] = "Maça";
+        frutas [1] = "Maracuja";
+        frutas [2] = "Abacaxi";
+        frutas [3] = "Laranja";
+
+        float [] valor = new float[4];
+        valor[0] = (float) 2.50;
+        valor[1] = (float) 1.50;
+        valor[2] = (float) 3.90;
+        valor[3] = (float) 2.00;
+
+        String [] vendedor = new String[4];
+        vendedor[0] = "Diego";
+        vendedor[1] = "Arthur";
+        vendedor[2] = "Alex";
+        vendedor[3] = "Pedro";
+
+        for (int i = 0; i<frutas.length; i++){
+            System.out.println("Vendedor: "+ vendedor[i]+ " vende a fruta: "+frutas[i]+" com o valor de R$: "+valor);
+        }
+
+
+
+
+
+    }
+
+
+}
