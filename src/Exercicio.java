@@ -19,13 +19,10 @@ public class Exercicio {
 
         System.out.printf("Record: %d years old, code %d and gender: %s\n\n", age, code, gender);
 
-        System.out.printf("Measue with eight decimal places: %.8f\n",measure );
+        System.out.printf("Measue with eight decimal places: %.8f\n", measure);
         System.out.printf("Rouded (three decimal places): %.3f\n", measure);
         Locale.setDefault(Locale.ENGLISH);
         System.out.printf("US decimal point: %.3f\n", measure);
-
-
-
 
 
     }

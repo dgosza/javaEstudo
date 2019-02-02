@@ -40,6 +40,5 @@ public class TiposPrimitivos {
         Object objeto3 = 432423423523234235L;
 
 
-
     }
 }

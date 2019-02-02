@@ -27,7 +27,7 @@ public class ConversaoImplicitaCasting {
         n1 = 5;
         n2 = 2;
 
-        resultado = (float) n1/n2;
+        resultado = (float) n1 / n2;
 
         System.out.println(resultado);
 
