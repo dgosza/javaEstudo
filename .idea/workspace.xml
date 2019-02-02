@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EntradaDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorDeAtribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaDeDados2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadorComparativo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ArrayExercicio2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversaoImplicitaCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversaoImplicitaCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiposPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/EntradaDeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/EntradaDeDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,23 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OperadorDeAtribuicao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EntradaDeDados.java">
+        <entry file="file://$PROJECT_DIR$/src/OperadorComparativo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -65,10 +59,20 @@
         <option value="$PROJECT_DIR$/src/Teste.java" />
         <option value="$PROJECT_DIR$/src/OperadorDeAtribuicao.java" />
         <option value="$PROJECT_DIR$/src/EntradaDeDados.java" />
+        <option value="$PROJECT_DIR$/src/EntradaDeDados2.java" />
+        <option value="$PROJECT_DIR$/src/Exercicio2.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostos/Exercicio1.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostos/Exercicio2.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostos/Exercicio3.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio4.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio5.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio6.java" />
+        <option value="$PROJECT_DIR$/src/OperadorComparativo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -101,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549131242977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549147220012" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -118,37 +122,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EntradaDeDados">
-    <configuration name="ConversaoImplicitaCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversaoImplicitaCasting" />
+  <component name="RunManager" selected="Application.OperadorComparativo">
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPropostosEstruturaSequencial.Exercicio3" />
       <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosPropostosEstruturaSequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EntradaDeDados" />
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPropostosEstruturaSequencial.Exercicio4" />
       <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosPropostosEstruturaSequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio" />
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPropostosEstruturaSequencial.Exercicio5" />
       <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosPropostosEstruturaSequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorDeAtribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadorDeAtribuicao" />
+    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosPropostosEstruturaSequencial.Exercicio6" />
       <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosPropostosEstruturaSequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaidaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaidaDeDados" />
+    <configuration name="OperadorComparativo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadorComparativo" />
       <module name="EstudoJava - Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EntradaDeDados" />
-        <item itemvalue="Application.OperadorDeAtribuicao" />
-        <item itemvalue="Application.Exercicio" />
-        <item itemvalue="Application.SaidaDeDados" />
-        <item itemvalue="Application.ConversaoImplicitaCasting" />
+        <item itemvalue="Application.OperadorComparativo" />
+        <item itemvalue="Application.Exercicio6" />
+        <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio3" />
       </list>
     </recent_temporary>
   </component>
@@ -177,11 +205,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23632385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.088621445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -190,15 +227,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32944915" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32838982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838982" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32944915" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32944915" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838982" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32838982" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -208,6 +245,32 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/java/Main.class" />
@@ -232,7 +295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicio.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercicio1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
@@ -249,10 +312,94 @@
     <entry file="file://$PROJECT_DIR$/src/EntradaDeDados.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EntradaDeDados2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercicio2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperadorComparativo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>

@@ -21,13 +21,13 @@ public class EntradaDeDados {
         System.out.println(y);
         System.out.println(z);
 
-        x = leia.nextLine();
+        x = leia.next();
         z = leia.next();
         y = leia.next();
 
         System.out.println(x);
-        System.out.println(y);
         System.out.println(z);
+        System.out.println(y);
 
 
         leia.close();
