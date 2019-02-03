@@ -4,11 +4,17 @@ public class OperadorComparativo {
 
 
         int a = 10;
-        boolean verifica = a<10;
-        boolean verifica1 = a<20;
 
-        System.out.println(verifica);
-        System.out.println(verifica1);
+
+        boolean c5 = a <= 10;
+        boolean c6 = a >= 10;
+        boolean c7 = a == 10;
+        boolean c8 = a != 10;
+
+        System.out.println(c5);
+        System.out.println(c6);
+        System.out.println(c7);
+        System.out.println(c8);
 
 
     }

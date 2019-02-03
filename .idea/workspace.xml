@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EntradaDeDados2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosPropostosEstruturaSequencial/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorComparativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/EntradaDeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/EntradaDeDados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EntradaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
-    </list>
+    <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OperadorComparativo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -105,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549147220012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549147368225" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -216,9 +201,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.088621445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33479214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,12 +211,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32838982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32944915" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32944915" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838982" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32838982" />
@@ -398,8 +382,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OperadorComparativo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
