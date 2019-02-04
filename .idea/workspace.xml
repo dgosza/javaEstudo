@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncoesEmString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OperadorLogico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OperadorLogico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaCondicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaCondicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicio8.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,86 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="61" lean-forward="true" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java">
+        <entry file="file://$PROJECT_DIR$/src/FuncoesEmString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="344">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -150,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio6.java" />
         <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio7.java" />
         <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java" />
+        <option value="$PROJECT_DIR$/src/FuncoesEmString.java" />
       </list>
     </option>
   </component>
@@ -180,12 +98,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerciciosEstruturaCondicional" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -193,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549235749156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549242463361" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -210,20 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercicio8">
-    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaCondicional.Exercicio4" />
-      <module name="EstudoJava - Udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerciciosEstruturaCondicional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FuncoesEmString">
     <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaCondicional.Exercicio5" />
       <module name="EstudoJava - Udemy" />
@@ -270,13 +169,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FuncoesEmString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FuncoesEmString" />
+      <module name="EstudoJava - Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncoesEmString" />
         <item itemvalue="Application.Exercicio8" />
         <item itemvalue="Application.Exercicio7" />
         <item itemvalue="Application.Exercicio6" />
         <item itemvalue="Application.Exercicio5" />
-        <item itemvalue="Application.Exercicio4" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +212,7 @@
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24617068" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24617068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -579,11 +485,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FuncoesEmString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
