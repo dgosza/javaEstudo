@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FuncoesEmString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicio8.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FuncoesEmString.java">
+        <entry file="file://$PROJECT_DIR$/src/switchcase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -72,7 +70,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -84,8 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549242463361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549242475386" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -209,10 +206,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24617068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25164112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,12 +217,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32944915" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32944915" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838982" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32838982" />
@@ -483,17 +479,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java">
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java" />
+    <entry file="file://$PROJECT_DIR$/src/FuncoesEmString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="4" />
+        <state relative-caret-position="224">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FuncoesEmString.java">
+    <entry file="file://$PROJECT_DIR$/src/switchcase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
