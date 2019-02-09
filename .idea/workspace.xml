@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Funcao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcao.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,28 +18,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio2.java">
+        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio3.java">
+        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +99,10 @@
         <option value="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio2.java" />
         <option value="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio3.java" />
         <option value="$PROJECT_DIR$/src/Program.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio1.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio2.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio3.java" />
+        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio4.java" />
       </list>
     </option>
   </component>
@@ -122,6 +130,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciciosEstruturaFor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549740537597" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549748613321" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -148,13 +162,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaWhile.Exercicio1" />
+  <component name="RunManager" selected="Application.Exercicio3 (1)">
+    <configuration name="Exercicio1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaFor.Exercicio1" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosEstruturaWhile.*" />
+          <option name="PATTERN" value="ExerciciosEstruturaFor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +176,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaWhile.Exercicio2" />
+    <configuration name="Exercicio2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaFor.Exercicio2" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosEstruturaWhile.*" />
+          <option name="PATTERN" value="ExerciciosEstruturaFor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciciosEstruturaFor.Exercicio3" />
+      <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosEstruturaFor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,13 +215,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Funcao" />
-      <module name="EstudoJava - Udemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="EstudoJava - Udemy" />
@@ -204,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio3 (1)" />
+        <item itemvalue="Application.Exercicio2 (1)" />
+        <item itemvalue="Application.Exercicio1 (1)" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Exercicio3" />
-        <item itemvalue="Application.Exercicio2" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.Funcao" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +258,7 @@
     <frame x="0" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24070022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24070022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -247,15 +267,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22669491" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31461865" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18835978" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838982" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32838982" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22669491" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32838982" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.1875" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838982" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32838982" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.31355932" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -525,6 +545,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -539,10 +566,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="-251">
+          <caret line="2211" selection-start-line="2211" selection-end-line="2211" />
+          <folding>
+            <element signature="e#84089#84090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
