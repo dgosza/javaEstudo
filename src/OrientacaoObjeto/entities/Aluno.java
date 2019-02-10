@@ -2,12 +2,15 @@ package OrientacaoObjeto.entities;
 
 public class Aluno {
     public String nomeAluno;
-    public int nota1;
-    public int nota2;
-    public int nota3;
+    public double nota1;
+    public double nota2;
+    public double nota3;
 
     public double calculaNota(){
+        return nota1 + nota2 + nota3;
+    }
 
-        return media;
+    public String toString(){
+        return "FINAL GRADE = "+String.format("%.2f", calculaNota());
     }
 }

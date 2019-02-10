@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/application/FuncionarioExercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/RetanguloExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/application/RetanguloExercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/FuncionarioExercicio.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="16" />
+            <state relative-caret-position="420">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,25 +27,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Funcionario.java">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
               <folding>
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -78,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Teste.java" />
-        <option value="$PROJECT_DIR$/src/OperadorDeAtribuicao.java" />
         <option value="$PROJECT_DIR$/src/EntradaDeDados.java" />
         <option value="$PROJECT_DIR$/src/EntradaDeDados2.java" />
         <option value="$PROJECT_DIR$/src/Exercicio2.java" />
@@ -129,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/RetanguloExercicio.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/FuncionarioExercicio.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Funcionario.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java" />
       </list>
     </option>
   </component>
@@ -185,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549838310940" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549839218177" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -202,7 +190,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioExercicio">
+  <component name="RunManager" selected="Application.AlunoExercicio">
+    <configuration name="AlunoExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.AlunoExercicio" />
+      <module name="EstudoJava - Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientacaoObjeto.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstoqueProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.EstoqueProgram" />
       <module name="EstudoJava - Udemy" />
@@ -242,13 +243,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.Program" />
-      <module name="EstudoJava - Udemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RetanguloExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.RetanguloExercicio" />
       <module name="EstudoJava - Udemy" />
@@ -264,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlunoExercicio" />
         <item itemvalue="Application.FuncionarioExercicio" />
         <item itemvalue="Application.RetanguloExercicio" />
         <item itemvalue="Application.EstoqueProgram" />
         <item itemvalue="Application.EstudanteTeste" />
-        <item itemvalue="Application.Program (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +290,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1063" height="1080" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22123894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -306,11 +301,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23199153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22669491" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22669491" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.1875" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.1875" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838982" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32838982" />
@@ -378,16 +373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ModuloDois/EntradaDeDados2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -808,10 +793,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="420">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
