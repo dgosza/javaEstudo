@@ -15,7 +15,7 @@ public class RetanguloExercicio {
         retangulo.width = leia.nextDouble();
         retangulo.height = leia.nextDouble();
 
-
+        System.out.println(retangulo);
 
         leia.close();
     }
