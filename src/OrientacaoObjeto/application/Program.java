@@ -1,43 +1,29 @@
 package OrientacaoObjeto.application;
 
-import OrientacaoObjeto.entities.Triangle;
+import OrientacaoObjeto.entities.ProgramMetodo;
 
 import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
+
     public static void main(String[] args) {
-        Locale.setDefault(Locale.ENGLISH);
-        Scanner leia = new Scanner(System.in);
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
 
-        Triangle x, y;
-        x = new Triangle();
-        y = new Triangle();
+        System.out.print("Enter radius: ");
+        double radius = sc.nextDouble();
 
-        System.out.println("Enter the measures of triangle X");
-        x.a = leia.nextDouble();
-        x.b = leia.nextDouble();
-        x.c = leia.nextDouble();
+        double c = ProgramMetodo.circumference(radius);
+        double v = ProgramMetodo.volume(radius);
 
-        System.out.println("Enter the measures of triangle Y");
-        y.a = leia.nextDouble();
-        y.b = leia.nextDouble();
-        y.c = leia.nextDouble();
+        System.out.printf("Circumference: %.2f%n", c);
+        System.out.printf("Volume: %.2f%n", v);
+        System.out.printf("PI value: %.2f%n", ProgramMetodo.PI);
 
-
-        double areaX = x.calculaArea();
-        double areaY = y.calculaArea();
-
-        System.out.printf("OrientacaoObjeto.entities.Triangle X area: %.4f%n", areaX);
-        System.out.printf("OrientacaoObjeto.entities.Triangle Y area: %.4f%n", areaY);
-
-        if (areaX > areaY) {
-            System.out.println("Larger area: X");
-        }
-        else {
-            System.out.println("Larger area: Y");
-        }
-
-        leia.close();
+        sc.close();
     }
+
+
 }
+
