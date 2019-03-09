@@ -18,7 +18,6 @@ public class Calculadora {
     //metodos acima nao tem retorno
 
     public double divideDoisNumeros(double n1, double n2){
-        System.out.println(n1/n2);
         return n1/n2;
     }
 

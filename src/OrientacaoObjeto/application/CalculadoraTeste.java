@@ -14,7 +14,7 @@ public class CalculadoraTeste {
         cal.multiplicaNumero(5,10);
 
         //with return
-        cal.divideDoisNumeros(20,2);
+        System.out.println(cal.divideDoisNumeros(89,4));
 
 
     }
