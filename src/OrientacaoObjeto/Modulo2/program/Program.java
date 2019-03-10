@@ -23,9 +23,6 @@ public class Program {
 
         Product product = new Product(name, price, quantity);
 
-        
-        product.name = "diego";
-
 
         System.out.println();
         System.out.println("Product data: " + product);
