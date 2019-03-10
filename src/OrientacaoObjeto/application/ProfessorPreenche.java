@@ -16,7 +16,7 @@ public class ProfessorPreenche {
         professor.nome = leia.next();
 
         System.out.println("Entre com a CPF");
-        professor.cpf = leia.nextInt();
+        professor.cpf = leia.next();
 
         System.out.println("Entre com o RG");
         professor1.rg = leia.nextInt();
@@ -25,7 +25,7 @@ public class ProfessorPreenche {
         professor1.nome = leia.next();
 
         System.out.println("Entre com a CPF");
-        professor1.cpf = leia.nextInt();
+        professor1.cpf = leia.next();
 
         System.out.println("Entre com o RG");
         professor1 .rg = leia.nextInt();

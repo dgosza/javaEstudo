@@ -21,5 +21,17 @@ public class Calculadora {
         return n1/n2;
     }
 
+    public void alteraDoisNumeros(int n1, int n2){
+
+        n1 = 30;
+        n2 = 40;
+
+        System.out.println("Dentro de altera dois numeros");
+        System.out.println("num1 = "+ n1);
+        System.out.println("num1 = "+ n2);
+
+
+    }
+
 
 }
