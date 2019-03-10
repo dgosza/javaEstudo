@@ -15,7 +15,7 @@ public class Exercicio2 {
         System.out.println("How many bedrooms are there in your house ?");
         int bed = leia.nextInt();
 
-        System.out.println("Enter product price");
+        System.out.println("Enter Product price");
         double price = leia.nextDouble();
 
         System.out.println("Enter your last name, age and height(same line)");

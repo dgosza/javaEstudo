@@ -2,18 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/LerCotacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/ParametrosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/testeConstrutores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/META-INF/EstudoJava - Udemy.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/ProfessorPreenche.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/ProfessorPreenche.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Calculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorPreenche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorPreenche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/CurrencyConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/LerCotacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/Exercicio2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/AlunoExercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/CalculadoraTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/EstoqueProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/EstudanteTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/FuncionarioExercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/Metodos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/ProfessorPreenche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/ProfessorTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/RetanguloExercicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/application/TesteCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Estoque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/ParametrosTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/ProgramMetodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/entities/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios/LerCotacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/LerCotacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModuloDois/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModuloDois/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/CalculadoraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/EstoqueProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/EstudanteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstudanteTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/FuncionarioExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Metodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorPreenche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/RetanguloExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/application/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/TesteCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Estoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/ParametrosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ParametrosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/ProgramMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ProgramMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Triangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,23 +67,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercicios/CurrencyConverter.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            <state relative-caret-position="300">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercicios/LerCotacao.java">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="270">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/testeConstrutores.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/ii.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -51,6 +125,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -70,30 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio3.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio4.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio5.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio6.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio7.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaCondicional/Exercicio8.java" />
-        <option value="$PROJECT_DIR$/src/FuncoesEmString.java" />
-        <option value="$PROJECT_DIR$/src/switchcase.java" />
-        <option value="$PROJECT_DIR$/src/Funcao.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio1.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio2.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaWhile/Exercicio3.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio1.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio2.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio3.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio4.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio5.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio6.java" />
-        <option value="$PROJECT_DIR$/src/ExerciciosEstruturaFor/Exercicio7.java" />
-        <option value="$PROJECT_DIR$/src/ExercicioFixacao.java" />
-        <option value="$PROJECT_DIR$/src/ModuloDois/Program.java" />
-        <option value="$PROJECT_DIR$/src/Program.java" />
-        <option value="$PROJECT_DIR$/src/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Program.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Triangle.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/Estudante.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Estoque.java" />
@@ -121,6 +173,30 @@
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorPreenche.java" />
         <option value="$PROJECT_DIR$/src/Exercicios/CurrencyConverter.java" />
         <option value="$PROJECT_DIR$/src/Exercicios/LerCotacao.java" />
+        <option value="$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/CurrencyConverter.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/Modulo1.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/Program.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstudanteTeste.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Program.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/TesteCarro.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Product.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Program.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/construtores.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Circulo.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/testeConstrutores.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Circulo.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/testeConstrutores.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java" />
+        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/o.html" />
       </list>
     </option>
   </component>
@@ -154,13 +230,37 @@
               <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Modulo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Modulo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Modulo2" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OrientacaoObjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Modulo2" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,9 +270,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552223636537" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552251513852" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -195,13 +297,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LerCotacao">
+  <component name="RunManager" selected="Application.testeConstrutores">
     <configuration name="CalculadoraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.CalculadoraTeste" />
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.Modulo1.application.CalculadoraTeste" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrientacaoObjeto.application.*" />
+          <option name="PATTERN" value="OrientacaoObjeto.Modulo1.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +312,11 @@
       </method>
     </configuration>
     <configuration name="LerCotacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicios.LerCotacao" />
+      <option name="MAIN_CLASS_NAME" value="Exercicios.ExercicioFixacao.LerCotacao" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicios.*" />
+          <option name="PATTERN" value="Exercicios.ExercicioFixacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.Metodos" />
+    <configuration name="ProfessorTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.Modulo1.application.ProfessorTeste" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrientacaoObjeto.application.*" />
+          <option name="PATTERN" value="OrientacaoObjeto.Modulo1.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParametrosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.entities.ParametrosTest" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.Modulo2.program.Program" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrientacaoObjeto.entities.*" />
+          <option name="PATTERN" value="OrientacaoObjeto.Modulo2.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfessorPreenche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.application.ProfessorPreenche" />
+    <configuration name="testeConstrutores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjeto.Modulo2.program.testeConstrutores" />
       <module name="EstudoJava - Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrientacaoObjeto.application.*" />
+          <option name="PATTERN" value="OrientacaoObjeto.Modulo2.program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LerCotacao" />
-        <item itemvalue="Application.ParametrosTest" />
-        <item itemvalue="Application.Metodos" />
+        <item itemvalue="Application.testeConstrutores" />
         <item itemvalue="Application.CalculadoraTeste" />
-        <item itemvalue="Application.ProfessorPreenche" />
+        <item itemvalue="Application.ProfessorTeste" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.LerCotacao" />
       </list>
     </recent_temporary>
   </component>
@@ -281,12 +383,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549108704432</updated>
-      <workItem from="1552191230984" duration="2531000" />
+      <workItem from="1552191230984" duration="13858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2531000" />
+    <option name="totallyTimeSpent" value="13858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,9 +401,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="0" width="935" height="1080" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28233972" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28233972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,8 +412,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.23199153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22635494" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23166844" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22635494" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32838982" />
@@ -416,67 +517,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="61" lean-forward="true" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ModuloDois/Exercicio2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaWhile/Exercicio2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaWhile/Exercicio3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -627,17 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/RetanguloExercicio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Estoque.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estoque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -652,17 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/EstoqueProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Retangulo.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Retangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="178" selection-start-line="21" selection-start-column="178" selection-end-line="21" selection-end-column="178" />
@@ -675,24 +695,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/FuncionarioExercicio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Funcionario.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Funcionario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
@@ -716,17 +726,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Aluno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
@@ -739,7 +739,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/ProgramMetodo.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ProgramMetodo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
@@ -752,45 +752,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Carro.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/TesteCarro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/EstudanteTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Estudante.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estudante.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/Metodos.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Metodos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/ParametrosTest.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ParametrosTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="37" />
@@ -798,79 +781,171 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/Professor.java" />
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Calculadora.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/LerCotacao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/CalculadoraTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/entities/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorPreenche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/ProfessorTeste.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/CurrencyConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/Modulo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstudanteTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/TesteCarro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Program.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/LerCotacao.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercicios/CurrencyConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/o.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/testeConstrutores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/ii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
