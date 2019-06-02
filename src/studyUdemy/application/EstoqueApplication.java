@@ -1,6 +1,6 @@
-package study.application;
+package studyUdemy.application;
 
-import study.methods.Estoque;
+import studyUdemy.methods.Estoque;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -21,12 +21,17 @@ public class EstoqueApplication {
         System.out.println("Quantity in stock: ");
         produto.quantity = leia.nextInt();
 
-        System.out.printf("%.2fProduct data:", produto.name,
-                " $ ", produto.price,
-                produto.quantity, " units",
-                "Total: $ ", produto.calculaTotal());
+        System.out.println(produto); //funçao toString
 
-        System.out.println("Enter the number of products to be added in stock");
+        System.out.println("Enter the number of products to be added in stock: ");
+        produto.addProducts(leia.nextInt());
+
+        System.out.println("Updated: "+produto);
+
+        System.out.println("Enter the number of products to be added in stock: ");
+        produto.removeProducts(leia.nextInt());
+
+        System.out.println("Updated: "+produto);
 
         leia.close();
     }

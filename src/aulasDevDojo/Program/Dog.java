@@ -1,6 +1,6 @@
-package AulasDevDojo.Program;
+package aulasDevDojo.Program;
 
-import AulasDevDojo.methods.DogClass;
+import aulasDevDojo.methods.DogClass;
 
 import java.util.Scanner;
 

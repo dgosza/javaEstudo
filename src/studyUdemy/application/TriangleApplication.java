@@ -1,6 +1,6 @@
-package study.application;
+package studyUdemy.application;
 
-import study.methods.Triangle;
+import studyUdemy.methods.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

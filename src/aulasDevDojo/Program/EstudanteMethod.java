@@ -1,4 +1,4 @@
-package AulasDevDojo.Program;
+package aulasDevDojo.Program;
 
 public class EstudanteMethod {
 

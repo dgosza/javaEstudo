@@ -1,6 +1,4 @@
-package AulasDevDojo.methods;
-
-import AulasDevDojo.Program.EstudanteMethod;
+package aulasDevDojo.methods;
 
 import java.util.Locale;
 import java.util.Scanner;

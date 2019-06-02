@@ -1,4 +1,4 @@
-package study.methods;
+package studyUdemy.methods;
 
 public class Triangle {
     public double a, b, c;

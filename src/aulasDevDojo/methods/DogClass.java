@@ -1,4 +1,4 @@
-package AulasDevDojo.methods;
+package aulasDevDojo.methods;
 
 public class DogClass {
 
