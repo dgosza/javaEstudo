@@ -8,7 +8,15 @@ public class EstudanteMethod {
     private int nota2;
     private int nota3;
 
-
-    public String getNOt
+    private String calculaMedia(int n1, int n2, int n3){
+        String result;
+        double media = (n1 + n2+n3)/3;
+        if(media>=6){
+            result = "Aprovado!";
+        }else{
+            result = "Reprovado!";
+        }
+        return result;
+    }
 
 }
