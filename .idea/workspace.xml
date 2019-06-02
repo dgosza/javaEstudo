@@ -2,140 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AulasDevDojo/Program/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasDevDojo/methods/DogClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasDevDojo/Program/EstudanteMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasDevDojo/methods/Estudante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExercicioFixacao/CurrencyConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExercicioFixacao/LerCotacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaFor/Exercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaWhile/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaWhile/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosEstruturaWhile/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/ConversaoImplicitaCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/EntradaDeDados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/EntradaDeDados2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/EstruturaCondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/ExercicioFixacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/FuncoesEmString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/OperadorComparativo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/OperadorDeAtribuicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/OperadorLogico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/SaidaDeDados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/ModuloDois/TiposPrimitivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/AlunoExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/EstoqueProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/EstudanteTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/Metodos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/ProfessorTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/application/TesteCarro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Estoque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Estudante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/ParametrosTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/ProgramMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo1/entities/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo2/methods/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo2/methods/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo2/program/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EstudoJava - Udemy/OrientacaoObjeto/Modulo2/program/testeConstrutores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExercicioFixacao/CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExercicioFixacao/LerCotacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExercicioFixacao/LerCotacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaCondicional/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaCondicional/Exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaFor/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaWhile/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaWhile/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaWhile/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaWhile/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosEstruturaWhile/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaWhile/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosPropostosEstruturaSequencial/Exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/ConversaoImplicitaCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/ConversaoImplicitaCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/EntradaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/EntradaDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/EntradaDeDados2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/EntradaDeDados2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/EstruturaCondicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/EstruturaCondicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/ExercicioFixacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/ExercicioFixacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/FuncoesEmString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/FuncoesEmString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/OperadorComparativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/OperadorComparativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/OperadorDeAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/OperadorDeAtribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/OperadorLogico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/OperadorLogico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/SaidaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/SaidaDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloDois/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/ModuloDois/TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/EstudanteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/EstudanteTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/FuncionarioExercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/Metodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/TesteCarro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Estoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ParametrosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/ParametrosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/ProgramMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/ProgramMetodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo2/methods/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo2/methods/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo2/program/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/testeConstrutores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo2/program/testeConstrutores.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,24 +14,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/methods/DogClass.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/methods/Estudante.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/Program/Dog.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/Program/EstudanteMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -194,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/Aluno.java" />
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/AlunoExercicio.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/entities/ProgramMetodo.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/Program.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/application/EstudanteTeste.java" />
@@ -245,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/AulasDevDojo/DogClass.java" />
         <option value="$PROJECT_DIR$/src/AulasDevDojo/Program/Dog.java" />
         <option value="$PROJECT_DIR$/src/AulasDevDojo/methods/DogClass.java" />
+        <option value="$PROJECT_DIR$/src/AulasDevDojo/methods/Estudante.java" />
+        <option value="$PROJECT_DIR$/src/AulasDevDojo/Program/EstudanteMethod.java" />
       </list>
     </option>
   </component>
@@ -261,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,25 +152,19 @@
               <item name="AulasDevDojo" type="462c0819:PsiDirectoryNode" />
               <item name="methods" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AulasDevDojo" type="462c0819:PsiDirectoryNode" />
-              <item name="Program" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554680922792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557697271229" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -419,12 +278,13 @@
       <workItem from="1552191230984" duration="20618000" />
       <workItem from="1554073872493" duration="3734000" />
       <workItem from="1554173494115" duration="4000" />
-      <workItem from="1554671730477" duration="5512000" />
+      <workItem from="1554671730477" duration="6445000" />
+      <workItem from="1557697057598" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29868000" />
+    <option name="totallyTimeSpent" value="31150000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,7 +299,7 @@
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28774616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29431072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -448,11 +308,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23166844" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22635494" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22635494" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.18703507" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.18703507" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838982" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32837406" />
@@ -526,26 +386,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExerciciosEstruturaFor/Exercicio6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/ModuloDois/ExercicioFixacao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -926,7 +766,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="51.5" y="15.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="52.0" y="16.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -936,18 +776,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/Program/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        <state relative-caret-position="708">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/methods/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/methods/DogClass.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AulasDevDojo/Program/EstudanteMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
