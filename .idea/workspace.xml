@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/studyUdemy/application/Vetores2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyUdemy/application/VetoresApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyUdemy/methods/Vetores2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudoTestes/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/Banco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/Banco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/BancoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/BancoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,12 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-              <folding>
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="18" selection-start-column="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/estudoTestes/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -75,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/TesteCarro.java" />
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Professor.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/ProfessorTeste.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/entities/Calculadora.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo1/application/CalculadoraTeste.java" />
@@ -124,12 +123,14 @@
         <option value="$PROJECT_DIR$/src/studyUdemy/methods/Vetores2.java" />
         <option value="$PROJECT_DIR$/src/studyUdemy/application/Vetores2Application.java" />
         <option value="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Estudante.java" />
-        <option value="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java" />
         <option value="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java" />
+        <option value="$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java" />
+        <option value="$PROJECT_DIR$/src/estudoTestes/Main.java" />
+        <option value="$PROJECT_DIR$/src/estudoTestes/Arrays.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="985" />
     <option name="width" value="935" />
     <option name="height" value="1080" />
@@ -142,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,27 +160,18 @@
               <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="studyUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="estudoTestes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="studyUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="studyUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -190,7 +183,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560110350750" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560913002004" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -215,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.Arrays">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studyUdemy.exercicioFixacaoVetor.Application" />
       <module name="course" />
@@ -229,38 +222,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudoTestes.Arrays" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudoTestes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BancoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studyUdemy.exercicioFixacaoSection4.BancoApplication" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="studyUdemy.exercicioFixacaoSection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstoqueApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyUdemy.application.EstoqueApplication" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studyUdemy.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estudo.application.Program" />
-      <module name="EstudoJava - Udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Estudo.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Vetores2Application" />
         <item itemvalue="Application.VetoresApplication" />
         <item itemvalue="Application.BancoApplication" />
-        <item itemvalue="Application.EstoqueApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -322,11 +302,12 @@
       <workItem from="1559434319291" duration="8279000" />
       <workItem from="1559504935923" duration="13520000" />
       <workItem from="1559825386707" duration="23567000" />
+      <workItem from="1560905438053" duration="4722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76516000" />
+    <option name="totallyTimeSpent" value="81238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,10 +319,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="985" y="0" width="935" height="1080" extended-state="5" />
+    <frame x="985" y="0" width="935" height="1080" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34083238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28233972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,7 +409,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Estudante.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/Metodos.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/ParametrosTest.java" />
     <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/application/Professor.java" />
@@ -587,7 +567,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="48.5" y="15.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="49.0" y="16.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -692,22 +672,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Quarto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="18" selection-start-column="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/studyUdemy/exercicioFixacaoVetor/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/estudoTestes/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="71" />
         </state>
       </provider>
     </entry>
