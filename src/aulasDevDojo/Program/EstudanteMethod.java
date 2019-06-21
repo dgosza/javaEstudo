@@ -4,19 +4,45 @@ public class EstudanteMethod {
 
     private String nome;
     private int idade;
-    private int nota1;
-    private int nota2;
-    private int nota3;
+    private double[] notas;
 
-    private String calculaMedia(int n1, int n2, int n3){
-        String result;
-        double media = (n1 + n2+n3)/3;
-        if(media>=6){
-            result = "Aprovado!";
-        }else{
-            result = "Reprovado!";
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setIdade(int idade) {
+
+        this.idade = idade;
+    }
+
+    public void setNotas(double[] notas) {
+        this.notas = notas;
+    }
+
+    public void print() {
+        System.out.println("Nome: " + this.nome);
+        System.out.println("Idade: " + this.idade);
+        for(double nota : this.notas){
+            System.out.print(nota +" ");
         }
-        return result;
+    }
+
+    public void retornaMedia() {
+        double media = 0;
+        for (double nota : this.notas) {
+            media += nota;
+        }
+
+        media = media / notas.length;
+
+        if (media >= 6) {
+            System.out.println("Sua média é "+media);
+            System.out.println("Aprovado!");
+        } else {
+            System.out.println("Sua média é "+media);
+            System.out.println("Reprovado!");
+        }
+
     }
 
 }

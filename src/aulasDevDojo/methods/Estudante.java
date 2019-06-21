@@ -1,5 +1,7 @@
 package aulasDevDojo.methods;
 
+import aulasDevDojo.Program.EstudanteMethod;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -8,11 +10,15 @@ public class Estudante {
 
         Locale.setDefault(Locale.ENGLISH);
         Scanner leia = new Scanner(System.in);
+        EstudanteMethod estudante = new EstudanteMethod();
 
-        System.out.println("1° nota");
-        System.out.println("2° nota");
-        System.out.println("3° nota");
+        estudante.setNome("Diego MAgalhães");
+        estudante.setIdade(17);
+        estudante.setNotas(new double[]{4, 2, 10, 2});
 
+        estudante.print();
+        estudante.retornaMedia();
 
+        leia.close();
     }
 }
