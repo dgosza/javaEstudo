@@ -1,10 +1,11 @@
-package aulasDevDojo.Program;
+package aulasDevDojo.program;
 
 public class EstudanteMethod {
 
     private String nome;
     private int idade;
     private double[] notas;
+
 
     public void setNome(String nome) {
         this.nome = nome;

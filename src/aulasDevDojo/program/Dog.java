@@ -1,4 +1,4 @@
-package aulasDevDojo.Program;
+package aulasDevDojo.program;
 
 import aulasDevDojo.methods.DogClass;
 
