@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/EstudanteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/ClienteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Estudante.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/ClienteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/EstudanteTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Carro.java" />
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Program.java" />
-        <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/ExercicioUri.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/Main.java" />
         <option value="$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/methods/Product.java" />
         <option value="$PROJECT_DIR$/src/AulasDevDojo/Program.java" />
@@ -116,6 +117,9 @@
         <option value="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Program.java" />
         <option value="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/EstudanteTest.java" />
         <option value="$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Estudante.java" />
+        <option value="$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/Program.java" />
+        <option value="$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/ClienteTest.java" />
+        <option value="$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/Cliente.java" />
       </list>
     </option>
   </component>
@@ -158,7 +162,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aulasDevDojo" type="462c0819:PsiDirectoryNode" />
-              <item name="sobrecargaContrutores" type="462c0819:PsiDirectoryNode" />
+              <item name="blocos_de_inicializacao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +178,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561394798488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561409869269" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -199,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EstudanteTest">
+  <component name="RunManager" selected="Application.ClienteTest">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studyUdemy.exercicioFixacaoVetor.Application" />
       <module name="course" />
@@ -213,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudoTestes.Arrays" />
+    <configuration name="ClienteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.blocos_de_inicializacao.ClienteTest" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudoTestes.*" />
+          <option name="PATTERN" value="aulasDevDojo.blocos_de_inicializacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClienteTest" />
         <item itemvalue="Application.EstudanteTest" />
         <item itemvalue="Application.FuncionarioTest" />
         <item itemvalue="Application.Estudante" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +299,12 @@
       <workItem from="1559825386707" duration="23567000" />
       <workItem from="1560905438053" duration="4751000" />
       <workItem from="1561094150379" duration="15981000" />
-      <workItem from="1561381953772" duration="5496000" />
+      <workItem from="1561381953772" duration="7492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102744000" />
+    <option name="totallyTimeSpent" value="104740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,13 +328,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.35" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21236873" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24504083" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32838982" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.18703507" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32788798" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.18669778" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838982" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32788798" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32834226" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.3134963" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -402,8 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CursoUdemy/Exercicios/ExercicioFixacao/CurrencyConverter.java" />
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/Modulo1.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/AlunoExercicio.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/EstoqueProgram.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/RetanguloExercicio.java" />
@@ -717,6 +719,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/EstudanteTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -724,10 +733,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/sobrecargaContrutores/Estudante.java">
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/ClienteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/blocos_de_inicializacao/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
