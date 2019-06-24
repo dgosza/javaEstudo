@@ -60,6 +60,17 @@ public class Funcionario {
 
     }
 
+    public void init(String nome, String cpf, double salario){
+            this.nome = nome;
+            this.cpf = cpf;
+            this.salario = salario;
+    }
+
+    public void init(String nome, String cpf, double salario, String rg){
+            init(nome, cpf, salario);
+            this.rg = rg;
+    }
+
     public void print() {
         System.out.println("Nome: " + this.nome);
         System.out.println("CPF: " + this.cpf);
