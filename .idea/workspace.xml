@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/modificadorEstatico/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/modificadorEstatico/Cliente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,53 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Professor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Aluno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Seminario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Local.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AulasDevDojo/Program/EstudanteMethod.java" />
-        <option value="$PROJECT_DIR$/src/Estudo/application/teste.java" />
         <option value="$PROJECT_DIR$/src/Estudo/application/Program.java" />
         <option value="$PROJECT_DIR$/src/Program.java" />
         <option value="$PROJECT_DIR$/src/AulasDevDojo/methods/Estudante.java" />
@@ -145,13 +93,15 @@
         <option value="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Local.java" />
         <option value="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Professor.java" />
         <option value="$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Program.java" />
+        <option value="$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Estudante.java" />
+        <option value="$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="985" />
-    <option name="width" value="925" />
-    <option name="height" value="1076" />
+    <option name="width" value="935" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,13 +131,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aulasDevDojo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EstudoJava - Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aulasDevDojo" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicioAssociacao" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -202,7 +145,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561430413367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561510238916" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -327,11 +270,12 @@
       <workItem from="1560905438053" duration="4751000" />
       <workItem from="1561094150379" duration="15981000" />
       <workItem from="1561381953772" duration="17206000" />
+      <workItem from="1561509857147" duration="393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114454000" />
+    <option name="totallyTimeSpent" value="114847000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,10 +287,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="0" width="1870" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="985" y="0" width="935" height="1080" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2844141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28346458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -433,8 +376,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/o.html" />
-    <entry file="file://$PROJECT_DIR$/src/OrientacaoObjeto/Modulo2/program/ii.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo2/program/testeConstrutores.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/application/ProfessorPreenche.java" />
     <entry file="file://$PROJECT_DIR$/src/CursoUdemy/OrientacaoObjeto/Modulo1/entities/Professor.java" />
@@ -806,20 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Aluno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Local.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Professor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -827,17 +754,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Seminario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Local.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioAssociacao/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulasDevDojo/exercicioArrayMultidimensional/Estudante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
