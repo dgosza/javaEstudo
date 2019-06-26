@@ -13,6 +13,7 @@ public class Cliente {
     }
 
     public Cliente() {
+
     }
 
     public static int[] getParcelas() {
