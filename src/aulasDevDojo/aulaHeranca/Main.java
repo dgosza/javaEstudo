@@ -1,3 +1,5 @@
+package aulasDevDojo.aulaHeranca;
+
 public class Main{
   public static void main(String[] args){
     
@@ -13,6 +15,7 @@ public class Main{
     p.print();
 
     Funcionario f = new Funcionario();
+
     f.setNome("Nathalia");
     f.setCpf("546546");
     f.setEndereco(end);

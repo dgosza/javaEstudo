@@ -1,3 +1,5 @@
+package aulasDevDojo.aulaHeranca;
+
 public class Endereco{
 
   private String rua;
@@ -5,7 +7,7 @@ public class Endereco{
 
   public void print(){
     System.out.println("Rua: "+this.rua);
-    System.out.println("this.bairro);
+    System.out.println("this.bairro");
   }
 
   public void setRua(String rua){

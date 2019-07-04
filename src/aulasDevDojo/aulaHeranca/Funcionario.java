@@ -1,5 +1,7 @@
+package aulasDevDojo.aulaHeranca;
+
 public class Funcionario extends Pessoa{
-  
+
   private double salario;
 
   public void print(){
@@ -20,6 +22,6 @@ public class Funcionario extends Pessoa{
     return this.salario;
   }
 
-  
+
 
 }
