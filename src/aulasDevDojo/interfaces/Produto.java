@@ -22,7 +22,7 @@ public class Produto implements Tributavel, Transportavel {
                 ", preco=" + preco +
                 ", precoFinal=" + precoFinal +
                 ", valorFrete=" + valorFrete +
-                '}';
+                "}";
     }
 
     @Override
