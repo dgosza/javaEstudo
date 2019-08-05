@@ -14,6 +14,7 @@ public class Main {
         System.out.println("AÇOES CACHORRO");
         dog.getNomeAnimal();
         dog.getRaca();
+        System.out.println("teste");
         dog.getTamanho();
         dog.emitirSom();
         dog.amamentar();
