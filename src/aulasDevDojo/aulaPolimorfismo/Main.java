@@ -3,7 +3,7 @@ package aulasDevDojo.aulaPolimorfismo;
 public class Main {
     public static void main(String[] args) {
 
-        Gerente gerente = new Gerente("Diego Souza", 200, 2000);
+        Gerente gerente = new Gerente("Diego Souza", 200, 0);
         Vendedor vendedor = new Vendedor("Mario", 200, 300);
         RelatorioPagamento relatorio = new RelatorioPagamento();
 
@@ -15,5 +15,6 @@ public class Main {
         Funcionario funcionario = gerente;
         System.out.println();
         System.out.println(funcionario.getSalario());
+        System.out.println(funcionario.nome);
     }
 }

@@ -11,7 +11,7 @@ public class Gerente extends Funcionario {
 
     @Override
     public void calculaPagamento() {
-        this.salario = this.salario * pnl;
+        this.salario = this.salario + pnl;
     }
 
     public double getPnl() {
