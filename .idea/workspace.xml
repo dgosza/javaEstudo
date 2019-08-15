@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/ArchiveDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/DAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/DatabaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exceptions/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exceptions/RunTimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exceptions/exemplo1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/exceptions/exemplo1/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudoTestes/polimorfismo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudoTestes/polimorfismo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAOTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +70,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DAOTest">
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.CheckedException" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.aulaPolimorfismo.DAOTest" />
       <module name="course" />
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.interface_exercicio.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.exemplo1.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.interface_exercicio.*" />
+          <option name="PATTERN" value="aulasDevDojo.exceptions.exemplo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +136,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.exemplo1.Main2" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.exceptions.exemplo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DAOTest" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CheckedException" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.DAOTest" />
       </list>
     </recent_temporary>
   </component>
