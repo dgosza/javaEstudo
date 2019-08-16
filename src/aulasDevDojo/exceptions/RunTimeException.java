@@ -1,23 +1,21 @@
 package aulasDevDojo.exceptions;
 
-import java.io.File;
-import java.io.IOException;
-
 public class RunTimeException {
+
     public static void main(String[] args) {
-        System.out.println();
-        criarArquivo();
+        divisao(10,0);
     }
 
-    public static void criarArquivo(){
-        File file = new File("aa.html");
+    private static void divisao(int n, int n2) {
+
         try{
-            System.out.println("Arquivo Criado!");
-            System.out.println("Nome do arquivo: "+file.createNewFile());
-        }catch (IOException e){
-            e.printStackTrace();
+            System.out.println(n / n2);
+        }catch (ArithmeticException e){
+            System.err.print("ATENCAO: ");
+            System.out.println("Número divisor é igual a 0");
+            System.out.println("Será atribuido o valor default de valor '2' ");
+            System.out.println(n/2);
         }
 
     }
-
 }

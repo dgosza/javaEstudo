@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main2 {
 
-    public static int calculaQuociente(int numerador, int denominador) throws ArithmeticException{
+    public static int calculaQuociente(int numerador, int denominador){
         return numerador / denominador;
     }
 
@@ -30,10 +30,17 @@ public class Main2 {
                 continua = false;
 
             }catch (InputMismatchException erro1) {
-                System.err.println("Não é permitido inserir letras, informe apenas números inteiros!");
-                sc.nextLine(); //descarta a entrada errada do usuário
+                System.err.print("ATENÇÃO! ");
+                System.out.println("Não é permitido inserir letras, informe apenas números inteiros!");
+                sc.nextLine();
+                System.out.print("Erro: ");
+                System.err.println(erro1);
             }catch(ArithmeticException erro2){
-                System.err.println("O número do divisor deve ser diferente de 0!");
+                System.err.print("ATENÇÃO! ");
+                System.out.println("O número do divisor deve ser diferente de 0!");
+            }finally {
+                System.out.println("Tente novamente");
+                System.out.println("Saindo do metodo...");
             }
         }while(continua);
     }
