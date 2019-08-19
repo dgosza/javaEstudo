@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/Assertiva/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/wrapper/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.CheckedException" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.wrapper.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
+          <option name="PATTERN" value="aulasDevDojo.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckedException" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.RunTimeException" />
       <item itemvalue="Application.TryWithResources" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TryWithResources" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.RunTimeException" />
-        <item itemvalue="Application.CheckedException" />
       </list>
     </recent_temporary>
   </component>
