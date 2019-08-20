@@ -1,4 +1,4 @@
-package aulasDevDojo.ExemploEnumeracao;
+package aulasDevDojo.exemploEnumeracao;
 
 public enum TipoCliente{
 

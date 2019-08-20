@@ -1,4 +1,4 @@
-package aulasDevDojo.Assertiva;
+package aulasDevDojo.assertiva;
 
 public class Main {
     public static void main(String[] args) {

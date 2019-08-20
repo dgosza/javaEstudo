@@ -1,4 +1,4 @@
-package aulasDevDojo.ExemploEnumeracao;
+package aulasDevDojo.exemploEnumeracao;
 
 class Main {
     public static void main(String[] args) {

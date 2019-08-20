@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/wrapper/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/strings/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/Assertiva/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/assertiva/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/TipoCliente.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.wrapper.Main" />
       <module name="course" />
@@ -82,12 +91,12 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.Assertiva.Main" />
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.assertiva.Main" />
       <module name="course" />
       <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.Assertiva.*" />
+          <option name="PATTERN" value="aulasDevDojo.assertiva.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.strings.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
+          <option name="PATTERN" value="aulasDevDojo.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.RunTimeException" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
@@ -150,17 +159,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.RunTimeException" />
       <item itemvalue="Application.TryWithResources" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TryWithResources" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.RunTimeException" />
       </list>
     </recent_temporary>
   </component>
