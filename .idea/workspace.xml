@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/strings/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/stringBuilderBuffer/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/stringsPerformance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/Assertiva/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/assertiva/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/ExemploEnumeracao/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/exemploEnumeracao/TipoCliente.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +67,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.StringBuilder">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.wrapper.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aulasDevDojo.wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.stringsPerformance.Main" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.stringsPerformance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +101,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aulasDevDojo.assertiva.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.exemplo1.Main2" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulasDevDojo.exceptions.exemplo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.stringBuilderBuffer.StringBuilder" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.stringBuilderBuffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.TryWithResources" />
       <module name="course" />
@@ -158,18 +162,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.TryWithResources" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.StringBuilder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilder" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TryWithResources" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
