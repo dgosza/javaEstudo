@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/DateFormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/MainDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/DateVerifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/LocaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/NumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/stringBuilderBuffer/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/stringBuilderBuffer/StringBuilder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateFormatTest">
+  <component name="RunManager" selected="Application.NumberFormat">
     <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.DateFormatTest" />
       <module name="course" />
@@ -81,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.wrapper.Main" />
+    <configuration name="LocaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.LocaleTest" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.wrapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.stringsPerformance.Main" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulasDevDojo.stringsPerformance.*" />
+          <option name="PATTERN" value="aulasDevDojo.dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.MainDate" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
+          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
+    <configuration name="NumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.NumberFormat" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.exceptions.*" />
+          <option name="PATTERN" value="aulasDevDojo.dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,20 +151,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.Test" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.StringBuilder" />
-      <item itemvalue="Application.MainDate" />
       <item itemvalue="Application.DateFormatTest" />
+      <item itemvalue="Application.LocaleTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.NumberFormat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateFormatTest" />
-        <item itemvalue="Application.MainDate" />
+        <item itemvalue="Application.NumberFormat" />
+        <item itemvalue="Application.LocaleTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.StringBuilder" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.DateFormatTest" />
       </list>
     </recent_temporary>
   </component>
