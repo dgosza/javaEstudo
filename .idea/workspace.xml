@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/DateVerifica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/LocaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/NumberFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/dates/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/stringBuilderBuffer/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/stringBuilderBuffer/StringBuilder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberFormat">
-    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.DateFormatTest" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Match">
     <configuration name="LocaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.LocaleTest" />
       <module name="course" />
@@ -100,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.strings.Main" />
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.expressoesRegulares.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.strings.*" />
+          <option name="PATTERN" value="aulasDevDojo.expressoesRegulares.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.NumberFormat" />
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.expressoesRegulares.Match" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
+          <option name="PATTERN" value="aulasDevDojo.expressoesRegulares.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.stringBuilderBuffer.StringBuilder" />
+    <configuration name="NumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.NumberFormat" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.stringBuilderBuffer.*" />
+          <option name="PATTERN" value="aulasDevDojo.dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuilder" />
-      <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.LocaleTest" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.NumberFormat" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Match" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Match" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.NumberFormat" />
         <item itemvalue="Application.LocaleTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StringBuilder" />
-        <item itemvalue="Application.DateFormatTest" />
       </list>
     </recent_temporary>
   </component>
