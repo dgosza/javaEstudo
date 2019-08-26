@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="" />
+    <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/CalendarEstudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/DateTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/Locale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/NumberFormatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,19 +24,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>yA</find>
-      <find>yB</find>
-      <find>xc</find>
-      <find>yc</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>x.a</replace>
-      <replace>y.b</replace>
-      <replace>y</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +43,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564535285453" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,13 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Match">
-    <configuration name="LocaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.LocaleTest" />
+  <component name="RunManager" selected="Application.NumberFormatTest">
+    <configuration name="CalendarEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.CalendarEstudo" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
+          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.expressoesRegulares.Main" />
+    <configuration name="DateTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.DateTeste" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.expressoesRegulares.*" />
+          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.Locale" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.NumberFormat" />
+    <configuration name="NumberFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.NumberFormatTest" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.dates.Test" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulasDevDojo.dates.*" />
+          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LocaleTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.NumberFormat" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Match" />
+      <item itemvalue="Application.CalendarEstudo" />
+      <item itemvalue="Application.Locale" />
+      <item itemvalue="Application.DateTeste" />
+      <item itemvalue="Application.NumberFormatTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberFormatTest" />
+        <item itemvalue="Application.DateTeste" />
+        <item itemvalue="Application.Locale" />
+        <item itemvalue="Application.CalendarEstudo" />
         <item itemvalue="Application.Match" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NumberFormat" />
-        <item itemvalue="Application.LocaleTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
