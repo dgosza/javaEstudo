@@ -31,6 +31,6 @@ public class Match {
         boolean verifica8 = "99855-999".matches(cep);
         System.out.println("CEP VALIDO ?"+verifica8);
 
-        
+
     }
 }
