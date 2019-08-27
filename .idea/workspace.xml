@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/CalendarEstudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/DateTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/Locale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulasDevDojo/estudosPackages/NumberFormatTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Match.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberFormatTest">
+  <component name="RunManager" selected="Application.Match">
     <configuration name="CalendarEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.CalendarEstudo" />
       <module name="course" />
@@ -147,11 +144,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Match" />
         <item itemvalue="Application.NumberFormatTest" />
         <item itemvalue="Application.DateTeste" />
         <item itemvalue="Application.Locale" />
         <item itemvalue="Application.CalendarEstudo" />
-        <item itemvalue="Application.Match" />
       </list>
     </recent_temporary>
   </component>
