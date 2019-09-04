@@ -32,10 +32,11 @@ public class Main {
         //String regex = "([A-Za-z0-9\\.-_])+@([A-Za-z0-9\\.-_])+(\\.([A-Za-z0-9])+)+";
         //String texto = "diego@gmail.com, fulano@hotmail.com.br, cicrano@yahoo.com, teste@hotmail.com";
 
-        SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy");
+        //String regex = "\\d{2}/\\d{2}/\\d{2,4}";
+        //String texto = "05/10/1495, 11/10/1995, 21/05/1395, 01/10/2295, 01/10/2095";
 
-        String regex = "\\d{2}/\\d{2}/\\d{2,4}";
-        String texto = "05/10/1495, 11/10/1995, 21/05/1395, 01/10/2295, 01/10/2095";
+        String regex = "proj([^.,])";
+        String texto = "proj1.bkp, projeto.java, proj2.class, proj4.class, projteste.java";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(texto);
 
