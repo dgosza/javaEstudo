@@ -4,7 +4,7 @@
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Match">
-    <configuration name="CalendarEstudo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.CalendarEstudo" />
-      <module name="course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DateTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.DateTeste" />
       <module name="course" />
@@ -89,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.expressoesRegulares.Main" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.expressoesRegulares.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,18 +137,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Match" />
-      <item itemvalue="Application.CalendarEstudo" />
       <item itemvalue="Application.Locale" />
       <item itemvalue="Application.DateTeste" />
       <item itemvalue="Application.NumberFormatTest" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Match" />
         <item itemvalue="Application.NumberFormatTest" />
         <item itemvalue="Application.DateTeste" />
         <item itemvalue="Application.Locale" />
-        <item itemvalue="Application.CalendarEstudo" />
       </list>
     </recent_temporary>
   </component>
