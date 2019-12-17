@@ -2,7 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead91523-8473-40c8-8878-3ef766ebaf9b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/expressoesRegulares/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aulasDevDojopt2/resourcebundle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisaoDeConteudo/revisao_heranca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisaoDeConteudo/revisao_heranca/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisaoDeConteudo/revisao_heranca/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisaoDeConteudo/revisao_polimorfismo/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revisaoDeConteudo/revisao_polimorfismo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messages_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/Assertiva/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente$TipoPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/ExemploEnumeracao/TipoCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaHeranca/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/ArchiveDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/ArchiveDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DatabaseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/DatabaseDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/RelatorioPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Vendedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/aulaPolimorfismo/Vendedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/blocos_de_inicializacao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/blocos_de_inicializacao/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/blocos_de_inicializacao/ClienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/blocos_de_inicializacao/ClienteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateVerifica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/DateVerifica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/LocaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/LocaleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/MainDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/MainDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/NumberFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/NumberFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/dates/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/enumeracao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/enumeracao/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/enumeracao/ClienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/enumeracao/ClienteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/CalendarEstudo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/CalendarEstudo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/DateTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/DateTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/Locale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/Locale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/NumberFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/estudosPackages/NumberFormatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/CheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/LoginInvalidoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/LoginInvalidoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/RunTimeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/RunTimeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/SenhaInvalidaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/SenhaInvalidaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/TryWithResources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/exemplo1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/exemplo1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/exemplo1/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exceptions/exemplo1/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioArrayMultidimensional/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioArrayMultidimensional/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioArrayMultidimensional/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioArrayMultidimensional/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Seminario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioAssociacao/Seminario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/TipoSanguineo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/TipoSanguineo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/TipoSanguineo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/exercicioEnumeracao/TipoSanguineo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/expressoesRegulares/Match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/ave/Ave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/ave/Ave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/ave/Papagaio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/ave/Papagaio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interface_exercicio/mamifero/Mamifero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Transportavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Transportavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Tributavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/interfaces/Tributavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/methods/DogClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/methods/DogClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/methods/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/methods/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/CarroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/CarroTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/ClienteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/modificadorEstatico/ClienteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/program/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/program/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/program/EstudanteMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/program/EstudanteMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaContrutores/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaContrutores/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaContrutores/EstudanteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaContrutores/EstudanteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/classes/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/test/FuncionarioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/sobrecargaMetodos/test/FuncionarioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringBuilderBuffer/StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/strings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/strings/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringsPerformance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/stringsPerformance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/aulasDevDojo/wrapper/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/aulasDevDojo/wrapper/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Cachorro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Cobra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Cobra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Macaco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Macaco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Mamifero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Nemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Nemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Peixe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Peixe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Reptil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/estudoTestes/polimorfismo/Reptil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/EstoqueApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/EstoqueApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/ExercicioDollarApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/ExercicioDollarApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/PiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/PiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/TriangleApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/TriangleApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/Vetores2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/Vetores2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/application/VetoresApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/application/VetoresApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/Banco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/Banco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/BancoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoSection4/BancoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoVetor/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoVetor/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoVetor/Quarto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/exercicioFixacaoVetor/Quarto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Estoque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Estoque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/ExercicioDollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/ExercicioDollar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Pi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Pi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Vetores2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/course/studyUdemy/methods/Vetores2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/tokens/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/tokens/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulasDevDojo/tokens/ScannerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulasDevDojo/tokens/ScannerMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +128,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EstudoJava - Udemy" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="JavaFXApplication" />
         <option value="Interface" />
+        <option value="Gradle Kotlin DSL Build Script" />
         <option value="Class" />
       </list>
     </option>
@@ -39,8 +161,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564535285453" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arcos.IMAGEM\Desktop\estudos\java\src" />
+      <recent name="C:\Users\Arcos.IMAGEM\Desktop\estudos\java\src\aulasDevDojopt2" />
+      <recent name="C:\Users\Arcos.IMAGEM\Desktop\estudos\java\src\aulasDevDojopt2\resourcebundle" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,13 +187,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DateTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.DateTeste" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojopt2.resourcebundles.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
+          <option name="PATTERN" value="aulasDevDojopt2.resourcebundles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Locale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.Locale" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojopt2.resourcebundle.Main" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
+          <option name="PATTERN" value="aulasDevDojopt2.resourcebundle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +228,32 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revisaoDeConteudo.revisao_heranca.Main" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revisaoDeConteudo.revisao_polimorfismo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.tokens.Main" />
+      <module name="course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulasDevDojo.tokens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aulasDevDojo.exceptions.Main" />
       <module name="course" />
       <extension name="coverage">
@@ -107,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.expressoesRegulares.Match" />
+    <configuration name="Professor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revisaoDeConteudo.revisao_heranca.Professor" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.expressoesRegulares.*" />
+          <option name="PATTERN" value="revisaoDeConteudo.revisao_heranca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.estudosPackages.NumberFormatTest" />
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulasDevDojo.tokens.ScannerMain" />
       <module name="course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aulasDevDojo.estudosPackages.*" />
+          <option name="PATTERN" value="aulasDevDojo.tokens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Match" />
-      <item itemvalue="Application.Locale" />
-      <item itemvalue="Application.DateTeste" />
-      <item itemvalue="Application.NumberFormatTest" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.ScannerMain" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Professor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Match" />
-        <item itemvalue="Application.NumberFormatTest" />
-        <item itemvalue="Application.DateTeste" />
-        <item itemvalue="Application.Locale" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Professor" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ScannerMain" />
       </list>
     </recent_temporary>
   </component>
